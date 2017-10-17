@@ -1,7 +1,7 @@
 # CSE6250BDH-LAB-DL
 **GT CSE6250 Big Data Analytics for Healthcare - Deep Learning Lab Sessions**
 
-Maintained by Sungtae An <stan84@gatech.edu>
+***Maintained by Sungtae An <stan84@gatech.edu>***
 
 In this series of tutorials, we will learn how to implement a varity of Neural Networks by using PyTorch with the example problems of healthcare domain.
 
